@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ibrahim69Shuaib
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js and Node.js
+- 📫 How to reach me >> Discord > d3ath_69
